@@ -31,7 +31,7 @@ const petmock = [
       description: "A friendly and playful cat",
       isVerified: true,
       price: 1000,
-      images_url:
+      image_url:
         "https://i.pinimg.com/474x/fa/98/82/fa988290ed5db0af24e733cdc5522158.jpg",
       vaccine_book_url: "https://www.starwoodpet.com/hs-fs/hubfs/Acceptable%20Rabies%20Cert.png?width=576&height=657&name=Acceptable%20Rabies%20Cert.png",
     },
@@ -43,7 +43,7 @@ const petmock = [
       description: "A calm and affectionate cat",
       isVerified: true,
       price: 800,
-      images_url:
+      image_url:
         "https://i.pinimg.com/736x/35/91/02/359102065bcbcc5cfac4db0f8135b94e.jpg",
       vaccine_book_url: "https://www.starwoodpet.com/hs-fs/hubfs/Acceptable%20Rabies%20Cert.png?width=576&height=657&name=Acceptable%20Rabies%20Cert.png",
     },
@@ -55,7 +55,7 @@ const petmock = [
       description: "A loyal and friendly dog",
       isVerified: false,
       price: 1200,
-      images_url:
+      image_url:
         "https://i.pinimg.com/474x/0d/2f/57/0d2f57e33779c96833ceb2f2ed8bc819.jpg",
       vaccine_book_url: "https://www.starwoodpet.com/hs-fs/hubfs/Acceptable%20Rabies%20Cert.png?width=576&height=657&name=Acceptable%20Rabies%20Cert.png",
     },
@@ -67,7 +67,7 @@ const petmock = [
       description: "A large and fluffy cat",
       isVerified: true,
       price: 1500,
-      images_url:
+      image_url:
         "https://i.pinimg.com/474x/75/9b/51/759b51ea919d0e5852f3c77857062caa.jpg",
       vaccine_book_url: "https://www.starwoodpet.com/hs-fs/hubfs/Acceptable%20Rabies%20Cert.png?width=576&height=657&name=Acceptable%20Rabies%20Cert.png",
     },
@@ -79,7 +79,7 @@ const petmock = [
       description: "A protective and intelligent dog",
       isVerified: true,
       price: 2000,
-      images_url:
+      image_url:
         "https://i.pinimg.com/474x/c3/44/1c/c3441ca5ac48b06f90450f04fb3f9a5c.jpg",
       vaccine_book_url: "https://www.starwoodpet.com/hs-fs/hubfs/Acceptable%20Rabies%20Cert.png?width=576&height=657&name=Acceptable%20Rabies%20Cert.png",
     },
@@ -91,7 +91,7 @@ const petmock = [
       description: "An active and playful cat",
       isVerified: false,
       price: 900,
-      images_url:
+      image_url:
         "https://i.pinimg.com/474x/c7/37/57/c73757e043118b0630e681eecb51ab20.jpg",
       vaccine_book_url: "https://www.starwoodpet.com/hs-fs/hubfs/Acceptable%20Rabies%20Cert.png?width=576&height=657&name=Acceptable%20Rabies%20Cert.png",
     },
@@ -103,7 +103,7 @@ const petmock = [
       description: "A curious and friendly dog",
       isVerified: true,
       price: 1100,
-      images_url:
+      image_url:
         "https://i.pinimg.com/474x/04/0f/e5/040fe5701abfba60935922c629eb7208.jpg",
       vaccine_book_url: "https://www.starwoodpet.com/hs-fs/hubfs/Acceptable%20Rabies%20Cert.png?width=576&height=657&name=Acceptable%20Rabies%20Cert.png",
     },
@@ -115,7 +115,7 @@ const petmock = [
       description: "A hairless and affectionate cat",
       isVerified: true,
       price: 1300,
-      images_url:
+      image_url:
         "https://i.pinimg.com/474x/5e/40/5b/5e405bed65968612da0f76e43cb3e889.jpg",
       vaccine_book_url: "https://www.starwoodpet.com/hs-fs/hubfs/Acceptable%20Rabies%20Cert.png?width=576&height=657&name=Acceptable%20Rabies%20Cert.png",
     },
@@ -127,7 +127,7 @@ const petmock = [
       description: "A calm and courageous dog",
       isVerified: false,
       price: 950,
-      images_url:
+      image_url:
         "https://i.pinimg.com/474x/ed/78/c4/ed78c40c7883d049bd33fee83c6bbad7.jpg",
       vaccine_book_url: "https://www.starwoodpet.com/hs-fs/hubfs/Acceptable%20Rabies%20Cert.png?width=576&height=657&name=Acceptable%20Rabies%20Cert.png",
     },
@@ -139,7 +139,7 @@ const petmock = [
       description: "A gentle and affectionate cat",
       isVerified: true,
       price: 1400,
-      images_url:
+      image_url:
         "https://i.pinimg.com/474x/a0/28/4c/a0284c7e489557338525d2a652520d02.jpg",
       vaccine_book_url: "https://www.starwoodpet.com/hs-fs/hubfs/Acceptable%20Rabies%20Cert.png?width=576&height=657&name=Acceptable%20Rabies%20Cert.png",
     },
