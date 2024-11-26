@@ -144,8 +144,10 @@ const petmock = [
       vaccine_book_url: "https://www.starwoodpet.com/hs-fs/hubfs/Acceptable%20Rabies%20Cert.png?width=576&height=657&name=Acceptable%20Rabies%20Cert.png",
     },
 ]
+
+
 // TODO: set value of your accesstoken that available in your db
-const access_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJwZWx0ZXIiLCJzdWIiOiJhY2NvdW50IiwiZXhwIjoxNzMyODY0MTgzLCJuYmYiOjE3MzI2MDQ5ODMsImlhdCI6MTczMjYwNDk4MywiVXNlcklkIjozfQ.LNhKlEMk1jk21kH2f394XrPd3Ez_nlZ74dl2Z3OfIAU"
+const access_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJwZWx0ZXIiLCJzdWIiOiJhY2NvdW50IiwiZXhwIjoxNzMyODk2NjIxLCJuYmYiOjE3MzI2Mzc0MjEsImlhdCI6MTczMjYzNzQyMSwiVXNlcklkIjoxfQ.qTK0iWyPdW4_IN5gSWtIoBLb5VJMpCm7MjkdEkzVLKU"
 export default function () {
   let url = "http://127.0.0.1:8080/product/add"
   let params = {
