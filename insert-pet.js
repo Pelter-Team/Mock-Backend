@@ -318,7 +318,7 @@ const petmock = [
     isVerified: true,
     price: 1600,
     image_url:
-      "https://i.pinimg.com/736x/f7/8c/8d/f78c8df407482fad8bc2506c7a7cf630.jpg",
+      "https://i.pinimg.com/736x/2f/d2/c8/2fd2c865476a219b4cf4ae511bca3ff8.jpg",
     vaccine_book_url:
       "https://www.starwoodpet.com/hs-fs/hubfs/Acceptable%20Rabies%20Cert.png?width=576&height=657&name=Acceptable%20Rabies%20Cert.png",
   },
@@ -357,7 +357,7 @@ const petmock = [
     isVerified: true,
     price: 1300,
     image_url:
-      "https://i.pinimg.com/736x/86/66/00/866600bad20c99547bb03420a18d4b67.jpg",
+      "https://i.pinimg.com/736x/9f/a3/e1/9fa3e1b881a50edf2a5c2ddc2edb2a51.jpg",
     vaccine_book_url:
       "https://www.starwoodpet.com/hs-fs/hubfs/Acceptable%20Rabies%20Cert.png?width=576&height=657&name=Acceptable%20Rabies%20Cert.png",
   },
